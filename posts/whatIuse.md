@@ -2,7 +2,10 @@
 title: What I Use, 2019-I Edition: The Stuff Ankesh can't live without.
 description: This is a post about the things I use.
 date: 2019-07-21
-tags: whatIUse, gadgets, personal
+tags: 
+- whatIUse
+- gadgets
+- personal
 layout: layouts/post.njk
 ---
 Being a student definitely doesn't help me with getting the arsenal I dream of but still whatever I've had managed to get off my holy dad's money, here's all of it:
